@@ -1,0 +1,5 @@
+NAME	AGE	CITY	CONTACT      GENDER
+
+bharat  22	pbr	3141	     male
+
+ridh	21	jnd	4343         fmale		
